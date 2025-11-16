@@ -1,4 +1,4 @@
-/sp.constitution Create a comprehensive constitution for "AI Native Software Development" Book. The sub-title of the book is "Colearning Agentic AI with Python and TypeScript – The AI & Spec Driven Way"
+/sp.constitution Create a comprehensive constitution for "AI Native Software Development" Book. The sub-title of the book is "Colearning Agentic AI with Python and TypeScript – The AI & Spec Driven Way."
 
 The book is geared towards teaching beginners how to program Modern Python, TypeScript, and Agentic AI in the new AI Driven Development (AIDD) era.
 
